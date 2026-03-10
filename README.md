@@ -3,6 +3,7 @@ Jadestone is a rating/informative application for Destiny 2 Gambit players. The 
 Special thanks to Dredgen Despair, Tricky, Aspect, Wardies, Scielle, and Leinth for giving feedback and testing alpha builds of Jadestone!
 Welcome to Jadestone 
 
+Note on Antivirus Warnings: Jadestone is a compiled Python application (via PyInstaller). Because it is an independent, open-source project without an expensive Microsoft Publisher Certificate, Windows Defender or your browser will likely flag it as "Suspicious" or "Unrecognized." This is a false positive. To use the app, click "More Info" -> "Run Anyway" when prompted by Windows SmartScreen.
 
 Here is your complete guide to mastering the Jadestone dashboard.
 
