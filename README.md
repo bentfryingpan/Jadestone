@@ -3,6 +3,7 @@ Jadestone is a rating/informative application for Destiny 2 Gambit players. The 
 Special thanks to Dredgen Despair, Tricky, Aspect, Wardies, Scielle, and Leinth for giving feedback and testing alpha builds of Jadestone!
 Welcome to Jadestone 
 
+
 Here is your complete guide to mastering the Jadestone dashboard.
 
 Getting Started
