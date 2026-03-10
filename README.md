@@ -3,7 +3,10 @@ Jadestone is a rating/informative application for Destiny 2 Gambit players. The 
 Special thanks to Dredgen Despair, Tricky, Aspect, Wardies, Scielle, and Leinth for giving feedback and testing alpha builds of Jadestone!
 Welcome to Jadestone 
 
-Note on Antivirus Warnings: Jadestone is a compiled Python application (via PyInstaller). Because it is an independent, open-source project without an expensive Microsoft Publisher Certificate, Windows Defender or your browser will likely flag it as "Suspicious" or "Unrecognized." This is a false positive. To use the app, click "More Info" -> "Run Anyway" when prompted by Windows SmartScreen.
+By downloading any version of Jadestone, you adhere to the rules of use and terms found in the Discord (https://discord.gg/2PwM4s43). Violation of rules or any form of tampering will result in blacklisting from the service and any future products produced indefinitely.
+
+
+Note on Antivirus Warnings: Jadestone is a compiled Python application (via PyInstaller). Because it is an independent, open-source project without an expensive Microsoft Publisher Certificate, Windows Defender, or your browser will likely flag it as "Suspicious" or "Unrecognized." This is a false positive. To use the app, click "More Info" -> "Run Anyway" when prompted by Windows SmartScreen.
 
 Here is your complete guide to mastering the Jadestone dashboard.
 
@@ -11,7 +14,7 @@ Getting Started
 
 1. The Initial Sync
 
-When you first open the app, it will silently download and optimize the Destiny 2 Manifest Database in the background. Once the bottom left status bar says "System Ready", you are good to go!
+When you first open the app, it will silently download and optimize the Destiny 2 Manifest Database in the background. Once the bottom-left status bar reads "System Ready", you are good to go!
 
 2. Fetching Your History
 
@@ -33,9 +36,9 @@ Customizable and Interactive Stat Boxes: Click the title of any card (e.g., "Ave
 
 The History Table (Bottom Left)
 
-This table displays your loaded matches chronologically.
+This table lists your loaded matches in chronological order.
 
-Click any row to load that match's detailed data into the right-side panels.
+Click any row to load the detailed data for that match into the right-side panels.
 
 Use the Filter Stack Size buttons at the top right to instantly filter this table (and all your graphs) to show only Solo games, 4-Stack games, or your Saved Favorites.
 
@@ -65,7 +68,7 @@ Match Details
 
 It shows your exact stats, your equipped exotic armor for that was likely equipped, and the complete lobby roster sorted by Jadestone Rating. (JAdestone cannot see your exotic armor from matches; it simply pulls the current one you have equipped)
 
-It also tells you your Team Role (e.g., if you were a Hard Carry, a Solid Contributor, or if you were Carried by your team).
+It also tells you your Team Role (e.g., if you were a Hard Carry, a Solid Contributor, or if your team carried you).
 
 Save to Favorites: Click this button at the top right of the Match tab to permanently save this game to your local database so it never gets wiped!
 
@@ -99,7 +102,7 @@ Click Export PNG to instantly generate a sleek, high-quality image of your stat 
 
 Advanced Tools
 
-Live Tracker: Check the "Live Tracker" box at the top right while you play. Jadestone will automatically fetch your newest matches every 5 minutes and update your dashboard in real-time.
+Live Tracker: Check the "Live Tracker" box at the top right while you play. Jadestone will automatically fetch your latest matches every 5 minutes and update your dashboard in real time.
 
 Compare Vs: Enter a friend's (or rival's) Bungie Name in the purple box at the top left. Jadestone will fetch both of your histories and overlay your data on all the graphs so you can see who the superior Gambit player really is.
 
