@@ -3,9 +3,6 @@ jadestone_cache.sqlite3
 manifest.sqlite3
 ego_config.json
 
-# Ignore secrets
-jadestone_secrets.py
-
 # Ignore build folders from PyInstaller
 build/
 dist/
