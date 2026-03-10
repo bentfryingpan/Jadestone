@@ -14,7 +14,7 @@ Getting Started
 
 1. The Initial Sync
 
-When you first open the app, it will silently download and optimize the Destiny 2 Manifest Database in the background. Once the bottom-left status bar reads "System Ready", you are good to go!
+When you first open the app, it will check this automatically check your app version through this github, an error message may display stating the app thinks it is up to date. If it is not, you can select "yes" and you will automatically be given the updated version. It will also silently download and optimize the Destiny 2 Manifest Database in the background. Once the bottom-left status bar reads "System Ready", you are good to go! 
 
 2. Fetching Your History
 
