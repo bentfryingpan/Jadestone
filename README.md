@@ -28,9 +28,7 @@ Dynamic Stat Cards (Top Middle)
 
 You will see 5 large stat blocks at the top of the screen.
 
-Customizable: Click the title of any card (e.g., "Average Score") to change what metric it displays. You can track your Highest K/D, Most Motes Denied, Total Primeval Damage, and more.
-
-Pro-Tip (Interactive): Click on the actual number inside any of these cards! The app will instantly jump to the specific match where you achieved that stat, highlighting it in the table and loading its exact details.
+Customizable and Interactive Stat Boxes: Click the title of any card (e.g., "Average Score") to change what metric it displays. You can track your Highest K/D, Most Motes Denied, Total Primeval Damage, and more. Click on the actual number inside any of these cards! The app will instantly jump to the specific match where you achieved that stat, highlighting it in the table and loading its exact details.
 
 The History Table (Bottom Left)
 
@@ -64,7 +62,7 @@ Medals: Bonus points for high-tier plays (Army of One, Half-Banked, etc.).
 
 Match Details
 
-The ultimate post-game carnage report. It shows your exact stats, your equipped Exotic armor for that match, and the complete lobby roster sorted by Jadestone Rating.
+It shows your exact stats, your equipped exotic armor for that was likely equipped, and the complete lobby roster sorted by Jadestone Rating. (JAdestone cannot see your exotic armor from matches; it simply pulls the current one you have equipped)
 
 It also tells you your Team Role (e.g., if you were a Hard Carry, a Solid Contributor, or if you were Carried by your team).
 
@@ -84,7 +82,7 @@ Weapon Synergy: Tracks your win rates and average ratings based on the top weapo
 
 Teammates & Rivals: Jadestone remembers everyone you play with. It tracks your encounters to crown your Best Teammate and your ultimate Nemesis.
 
-Pro-Tip: Double-click any player's name in the Teammates & Rivals list to instantly set them as a comparison target and fetch their match history!
+Double-click any player's name in the Teammates & Rivals list to instantly set them as a comparison target and fetch their match history!
 
 Receipts
 
